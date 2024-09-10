@@ -1,0 +1,8 @@
+Result of expression 9+11/3 is 6.66667
+Result of expression 16*3+48 is 96
+Result of expression 90-6*5 is 420
+Result of expression 21/3*4 is 28
+Result of expression 12*3+5 is 41
+Result of expression 19+8/4 is 6.75
+Result of expression 9+12*32 is 672
+Result of expression 89+8*13 is 1261
